@@ -1,0 +1,11 @@
+{
+  "name": "day-2",
+  "version": "1.0.0",
+  "description": "",
+  "main": "httpserver.js",
+  "scripts": {
+    "start": "node httpserver"
+  },
+  "author": "",
+  "license": "ISC"
+}
